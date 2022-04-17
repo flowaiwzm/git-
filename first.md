@@ -7,5 +7,6 @@
 5. athlete n 运动员 athl 比赛
 6. justice n.公平公正 / justify vt 证明...有理
 7. behave vi 表现 表现得体  / behaviour n.行为
-8. alter 改变，更改  /alternative a.可供替代的，非传统的
-9. 
+8. alter 更改  / alternative a.可供替换的 非传统的
+9. battle 战斗，搏斗 conflict n.战斗 flight v 搏斗
+
