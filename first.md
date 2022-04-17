@@ -9,7 +9,11 @@
 7. behave vi 表现 表现得体  / behaviour n.行为
 8. alter 更改  / alternative a.可供替换的 非传统的
 9. battle 战斗，搏斗 conflict n.战斗 flight v 搏斗
-## ssh 方式上传代码
+### ssh 方式上传代码
 - 公钥 与 私钥 ，两者之间是有关联的
 - 生成公钥和私钥
    + 'ssh-keygen -t rsa -C "邮箱地址"'
+- 利用git remote add origin(变量) 仓库地址
+- git push origin -u master 后面也不用写master可以直接使用
+- git push提交到远程仓库 
+- git pull 拉取远程仓库的资料
